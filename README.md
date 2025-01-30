@@ -6,7 +6,7 @@ This repository contains assignments and projects for the **Data Visualization**
 - **Data Cleaning & Preprocessing:** Ensured data accuracy by handling missing values and standardizing formats.
 - **Exploratory Data Analysis (EDA):** Identified trends in streamer popularity, game preferences, and audience engagement using statistical methods.
 - **Visualization Techniques:** Created interactive and static visualizations using tools like Matplotlib, Seaborn, and Plotly.
-- **Insights Derived:** Detailed analysis of streaming hours, revenue generation patterns, and platform engagement metrics.
+- **Insights Derived:** Detailed analysis of streaming hours and platform engagement metrics.
 
 ## Team Members
 - **IMT2022052:** Udayagiri Narayana Srimanth  
